@@ -1,0 +1,56 @@
+ {
+  "skills": [
+    {
+      "enabled" : true,
+      "title": "Jhon",
+      "description": "Baker",
+      "iconLink": "JB.png",
+       "rating" : 0,
+       "color" : null
+    },
+    {
+      "enabled" : true,
+      "title": "Christin",
+      "description": "Scotlen",
+      "iconLink": "Sco.png",
+      "rating" : 115,
+      "color" : {
+        "r" : 0.3,
+        "g" : 0.25,
+        "b" : 0.12
+      }
+    },
+    {
+      "enabled" : true,
+      "title": "VR Development",
+      "description": "virtual reality applications",
+      "iconLink": "www.exampleLink.com/icon.png",
+      "rating" : 259,
+      "color" : {
+        "r" : 0.17,
+        "g" : 0.6,
+        "b" : 0.12
+      }
+    },
+    {
+      "enabled" : true,
+      "title": "UI Development",
+      "description": "Create user interface with canvas and c#",
+      "iconLink": "www.canvas.com/ui.png",
+      "rating" : 0,
+      "color" : {
+        "r" : 0.45,
+        "g" : 0.75,
+        "b" : 0.39
+      }
+    },
+    {
+      "enabled" : true,
+      "title": "ECS Games",
+      "description": "Entity Component SYstem Games",
+      "iconLink": "www.canvas.com/ecs.png",
+      "rating" : 115,
+       "color" : null
+    }
+  ]
+}

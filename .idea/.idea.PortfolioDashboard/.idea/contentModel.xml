@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\AirCoder\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\AirCoder\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_PortfolioDashboard.-1090783347.00" t="ExcludeRecursive" />
+    <e p="E:\unity Projects\Github\PortfolioDashboard" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Addons" t="Include">
+          <e p="UltimateJson" t="Include">
+            <e p="7zip" t="Include">
+              <e p="Common" t="Include">
+                <e p="CommandLineParser.cs" t="Include" />
+                <e p="CRC.cs" t="Include" />
+                <e p="InBuffer.cs" t="Include" />
+                <e p="OutBuffer.cs" t="Include" />
+              </e>
+              <e p="Compress" t="Include">
+                <e p="LZ" t="Include">
+                  <e p="IMatchFinder.cs" t="Include" />
+                  <e p="LzBinTree.cs" t="Include" />
+                  <e p="LzInWindow.cs" t="Include" />
+                  <e p="LzOutWindow.cs" t="Include" />
+                </e>
+                <e p="LZMA" t="Include">
+                  <e p="LzmaBase.cs" t="Include" />
+                  <e p="LzmaDecoder.cs" t="Include" />
+                  <e p="LzmaEncoder.cs" t="Include" />
+                  <e p="LZMAMemoryStream.cs" t="Include" />
+                </e>
+                <e p="RangeCoder" t="Include">
+                  <e p="RangeCoder.cs" t="Include" />
+                  <e p="RangeCoderBit.cs" t="Include" />
+                  <e p="RangeCoderBitTree.cs" t="Include" />
+                </e>
+              </e>
+              <e p="ICoder.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="UltimateJsonEditor.cs" t="Include" />
+            </e>
+            <e p="ExampleScene" t="Include">
+              <e p="testJSON.cs" t="Include" />
+              <e p="testJsonObject.cs" t="Include" />
+              <e p="testVector3.cs" t="Include" />
+            </e>
+            <e p="FastJSON" t="Include">
+              <e p="CustomTypesFactory" t="Include">
+                <e p="ClassFactory.cs" t="Include" />
+                <e p="CustomClassFactory.cs" t="Include" />
+              </e>
+              <e p="Formatter.cs" t="Include" />
+              <e p="Getters.cs" t="Include" />
+              <e p="JSON.cs" t="Include" />
+              <e p="JsonParser.cs" t="Include" />
+              <e p="JsonSerializer.cs" t="Include" />
+              <e p="Reflection.cs" t="Include" />
+              <e p="SafeDictionary.cs" t="Include" />
+              <e p="UnityClassesFactory" t="Include">
+                <e p="UnityClassesFactory.cs" t="Include" />
+                <e p="VectorFactory.cs" t="Include" />
+              </e>
+            </e>
+            <e p="JsonCompress.cs" t="Include" />
+            <e p="JsonNodeObject.cs" t="Include" />
+            <e p="JsonObject.cs" t="Include" />
+            <e p="ReadMe" t="Include">
+              <e p="ReadMe.txt" t="Include" />
+            </e>
+            <e p="ScriptableObjectClasses" t="Include">
+              <e p="PersonListScriptable.cs" t="Include" />
+            </e>
+            <e p="TestJSON" t="Include">
+              <e p="PlayerStat.cs" t="Include" />
+              <e p="SaveModel.cs" t="Include" />
+              <e p="Test.cs" t="Include" />
+              <e p="TestSpecNames.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AirCoder" t="Include">
+          <e p="Examples" t="Include">
+            <e p="Example1" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Waypoints.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Example2" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="UIExample.cs" t="Include" />
+                <e p="UIPanel.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ReadMe.txt" t="Include" />
+          <e p="TJ" t="Include">
+            <e p="Core" t="Include">
+              <e p="BaseMonoBehaviour.cs" t="Include" />
+              <e p="Ease" t="Include">
+                <e p="Easing.cs" t="Include" />
+              </e>
+              <e p="EaseType.cs" t="Include" />
+              <e p="Extensions" t="Include">
+                <e p="CanvasGroupExtensions.cs" t="Include" />
+                <e p="FloatExtensions.cs" t="Include" />
+                <e p="GraphicExtensions.cs" t="Include" />
+                <e p="MaterialExtensions.cs" t="Include" />
+                <e p="RectTransformExtensions.cs" t="Include" />
+                <e p="SpriteRendererExtensions.cs" t="Include" />
+                <e p="TransformExtensions.cs" t="Include" />
+              </e>
+              <e p="JobFactory.cs" t="Include" />
+              <e p="JobPool.cs" t="Include" />
+              <e p="Jobs" t="Include">
+                <e p="CanvasGroupJob.cs" t="Include" />
+                <e p="GraphicsJob.cs" t="Include" />
+                <e p="ITweenJob.cs" t="Include" />
+                <e p="MaterialJob.cs" t="Include" />
+                <e p="RectTransformJob.cs" t="Include" />
+                <e p="SpriteRendererJob.cs" t="Include" />
+                <e p="TransformJob.cs" t="Include" />
+                <e p="TweenJobBase.cs" t="Include" />
+              </e>
+              <e p="Sequences" t="Include">
+                <e p="ITweenSequence.cs" t="Include" />
+                <e p="SequenceJob.cs" t="Include" />
+              </e>
+              <e p="TJSystem.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="AboutWindow.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="JsonDotNet" t="Include">
+          <e p="link.xml" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="PathologicalGames" t="Include">
+            <e p="PoolManager" t="Include">
+              <e p="PoolManager.cs" t="Include" />
+              <e p="PreRuntimePoolItem.cs" t="Include" />
+              <e p="SpawnPool.cs" t="Include" />
+            </e>
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+          <e p="Sirenix" t="Include">
+            <e p="Assemblies" t="Include">
+              <e p="link.xml" t="Include" />
+              <e p="Sirenix.OdinInspector.Attributes.xml" t="Include" />
+              <e p="Sirenix.OdinInspector.Editor.xml" t="Include" />
+              <e p="Sirenix.Serialization.Config.xml" t="Include" />
+              <e p="Sirenix.Utilities.Editor.xml" t="Include" />
+              <e p="Sirenix.Utilities.xml" t="Include" />
+            </e>
+            <e p="Odin Inspector" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="AssemblyImportSettingsAutomation.cs" t="Include" />
+                  <e p="BuildAOTAutomation.cs" t="Include" />
+                  <e p="EnsureOdinInspectorDefine.cs" t="Include" />
+                  <e p="FixBrokenUnityObjectWrapperDrawer.cs" t="Include" />
+                  <e p="Sirenix.OdinInspector.CompatibilityLayer.Editor.asmdef" t="Include" />
+                  <e p="SyncListDrawer.cs" t="Include" />
+                  <e p="SyncVarAttributeDrawer.cs" t="Include" />
+                  <e p="Vector2IntMinMaxAttributeDrawer.cs" t="Include" />
+                  <e p="VectorIntDrawers.cs" t="Include" />
+                  <e p="VectorIntPropertyResolvers.cs" t="Include" />
+                </e>
+                <e p="SerializedNetworkBehaviour.cs" t="Include" />
+                <e p="Sirenix.OdinInspector.CompatibilityLayer.asmdef" t="Include" />
+                <e p="VectorIntFormatters.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+        </e>
+        <e p="ProceduralUIImage" t="Include">
+          <e p="Editor" t="Include">
+            <e p="FreeModifierEditor.cs" t="Include" />
+            <e p="ModifierUtility.cs" t="Include" />
+            <e p="ProceduralImageEditor.cs" t="Include" />
+            <e p="ProceduralImageEditorUtility.cs" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="ProceduralImageRuntime.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Attributes" t="Include">
+              <e p="ModifierID.cs" t="Include" />
+            </e>
+            <e p="EmptySprite.cs" t="Include" />
+            <e p="Modifiers" t="Include">
+              <e p="CustomPremadeModifier.cs" t="Include" />
+              <e p="FreeModifier.cs" t="Include" />
+              <e p="OnlyOneEdgeModifier.cs" t="Include" />
+              <e p="RoundModifier.cs" t="Include" />
+              <e p="UniformModifier.cs" t="Include" />
+            </e>
+            <e p="ProceduralImage.cs" t="Include" />
+            <e p="ProceduralImageModifier.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CustomSizeFitter.cs" t="Include" />
+          <e p="Dashboard.cs" t="Include" />
+          <e p="DashboardSettings.cs" t="Include" />
+          <e p="Extensions" t="Include">
+            <e p="RectTransformExtensions.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IhaveColorField.cs" t="Include" />
+            <e p="IHaveEnabledField.cs" t="Include" />
+            <e p="IHaveNumericField.cs" t="Include" />
+            <e p="IHaveTextField.cs" t="Include" />
+          </e>
+          <e p="ItemsMaker" t="Include">
+            <e p="Components" t="Include">
+              <e p="AppComponent.cs" t="Include" />
+              <e p="ComponentData.cs" t="Include" />
+              <e p="ComponentType.cs" t="Include" />
+              <e p="TextComponent.cs" t="Include" />
+            </e>
+            <e p="Inspector" t="Include">
+              <e p="Inspector.cs" t="Include" />
+            </e>
+            <e p="Items" t="Include">
+              <e p="Item.cs" t="Include" />
+            </e>
+            <e p="ItemsMaker.cs" t="Include" />
+          </e>
+          <e p="ListToPopupAttribute.cs" t="Include" />
+          <e p="Menu" t="Include">
+            <e p="Menu.cs" t="Include" />
+            <e p="MenuButton.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="DBColor.cs" t="Include" />
+            <e p="Model.cs" t="Include" />
+            <e p="Reward.cs" t="Include" />
+            <e p="RootModel.cs" t="Include" />
+            <e p="Skill.cs" t="Include" />
+          </e>
+          <e p="Theme" t="Include">
+            <e p="ColorInfo.cs" t="Include" />
+            <e p="ThemeColor.cs" t="Include" />
+            <e p="ThemeElement.cs" t="Include" />
+            <e p="ThemeInfo.cs" t="Include" />
+            <e p="ThemeManager.cs" t="Include" />
+          </e>
+          <e p="UIPanel.cs" t="Include" />
+          <e p="Views" t="Include">
+            <e p="Blocks" t="Include">
+              <e p="Block.cs" t="Include" />
+              <e p="Fields" t="Include">
+                <e p="BlockField.cs" t="Include" />
+                <e p="ColorField.cs" t="Include" />
+                <e p="NumericField.cs" t="Include" />
+                <e p="ObjectField.cs" t="Include" />
+                <e p="SupportedFieldType.cs" t="Include" />
+                <e p="TextField.cs" t="Include" />
+                <e p="ToggleField.cs" t="Include" />
+              </e>
+            </e>
+            <e p="View.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PortfolioDashboard.sln" t="IncludeFlat" />
+      <e p="Sirenix.OdinInspector.CompatibilityLayer.csproj" t="IncludeRecursive" />
+      <e p="Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" t="IncludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
