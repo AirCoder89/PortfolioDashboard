@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+using Interfaces;
 using Sirenix.OdinInspector;
 using UnityEngine;
 using UnityEngine.UI;
@@ -6,15 +8,20 @@ namespace Theme
 {
     public enum ThemeTarget
     {
-        Image, Text, Button
+        Image, Text, Toggle
     }
+    
     public class ThemeElement : MonoBehaviour
     {
+        [BoxGroup("Main")] public bool isChild;
         [BoxGroup("Target")][EnumToggleButtons][SerializeField] private ThemeTarget target;
-        [BoxGroup("Color")][EnumToggleButtons][HideIf("target", ThemeTarget.Button)] [SerializeField] 
+        [BoxGroup("Color")][EnumToggleButtons][SerializeField] [HideIf("target", ThemeTarget.Toggle)]
         private ThemeColor color;
-        [BoxGroup("Color")][EnumToggleButtons][ShowIf("target", ThemeTarget.Button)] [SerializeField] 
+        [BoxGroup("Color")][SerializeField] [ShowIf("target", ThemeTarget.Toggle)]
         private ThemeButtonColor colors;
+
+        [BoxGroup("Color")] [SerializeField] [ShowIf("target", ThemeTarget.Toggle)]
+        private List<ThemeElement> children;
 
         private Text _txt;
         private Text _text
@@ -45,15 +52,27 @@ namespace Theme
                 return _btn;
             }
         }
+        
         private void Awake()
         {
-            ThemeManager.OnThemeChanged += ApplyTheme;
+            if (isChild) return;
+                ThemeManager.OnThemeChanged += ApplyTheme;
+                var toggle = GetComponent<IToggle>();
+                if (toggle != null)
+                {
+                    Debug.Log($"OOOOOOObject is toggle parent");
+                    toggle.onValueChanged += isSelected =>
+                    {
+                        Debug.Log($"Update after value changed");
+                        ApplyTheme(ThemeManager.currentTheme);
+                    };
+                }
         }
 
         private void OnEnable()
         {
             if(ThemeManager.currentTheme == null) return;
-            ApplyTheme(ThemeManager.currentTheme);
+            if(!isChild) ApplyTheme(ThemeManager.currentTheme);
         }
 
         private void ApplyTheme(ThemeInfo inTheme)
@@ -66,17 +85,42 @@ namespace Theme
                 case ThemeTarget.Image:
                     this._image.color = inTheme.GetColor(this.color);
                     break;
-                case ThemeTarget.Button:
-                    _button.colors = new ColorBlock()
-                    {
-                        normalColor = inTheme.GetColor(colors.normal),
-                        highlightedColor = inTheme.GetColor(colors.highlighted),
-                        pressedColor = inTheme.GetColor(colors.pressed),
-                        disabledColor = inTheme.GetColor(colors.disabled),
-                    };
+                case ThemeTarget.Toggle:
+                    var isSelected = false;
+                    var toggle = GetComponent<IToggle>();
+                    if(toggle != null) isSelected = toggle.IsSelected;
+                       
+                   ApplyTheme(inTheme, isSelected);
+                   if(children != null && children.Count > 0)
+                       children.ForEach(child =>
+                       {
+                           child.ApplyTheme(inTheme, isSelected);
+                       });
                     break;
             }
         }
+
+        private void ApplyTheme(ThemeInfo inTheme, bool isSelected)
+        {
+            switch (target)
+            {
+                case ThemeTarget.Text:
+                    this._text.color = inTheme.GetColor(GetColor(isSelected));
+                    break;
+                case ThemeTarget.Image:
+                    this._image.color = inTheme.GetColor(GetColor(isSelected));
+                    break;
+                case ThemeTarget.Toggle:
+                    if (_image != null)
+                        this._image.color = inTheme.GetColor(GetColor(isSelected));
+                    if(_text != null)
+                        this._text.color = inTheme.GetColor(GetColor(isSelected));
+                    break;
+            }
+        }
+
+        private ThemeColor GetColor(bool isSelected) 
+            => isSelected ? colors.selected : colors.unselected;
 
     }
 }

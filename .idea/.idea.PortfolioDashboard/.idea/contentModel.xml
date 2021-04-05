@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\AirCoder\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\AirCoder\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_PortfolioDashboard.-1090783347.00" t="ExcludeRecursive" />
-    <e p="E:\unity Projects\Github\PortfolioDashboard" t="IncludeRecursive">
+    <e p="C:\Users\SBS\AppData\local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\SBS\AppData\local\JetBrains\Rider2020.3\resharper-host\local\Transient\Rider\v203\SolutionCaches\_PortfolioDashboard.1217318436.00" t="ExcludeRecursive" />
+    <e p="D:\Project2020\Github\PortfolioDashboard" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
@@ -174,7 +174,6 @@
                 <e p="VectorIntFormatters.cs" t="Include" />
               </e>
             </e>
-            <e p="ReadMe.txt" t="Include" />
           </e>
         </e>
         <e p="ProceduralUIImage" t="Include">
@@ -217,6 +216,7 @@
             <e p="IHaveEnabledField.cs" t="Include" />
             <e p="IHaveNumericField.cs" t="Include" />
             <e p="IHaveTextField.cs" t="Include" />
+            <e p="IToggle.cs" t="Include" />
           </e>
           <e p="ItemsMaker" t="Include">
             <e p="Components" t="Include">
@@ -266,19 +266,21 @@
                 <e p="ToggleField.cs" t="Include" />
               </e>
             </e>
+            <e p="SearchDashboard" t="Include">
+              <e p="FilterItem.cs" t="Include" />
+              <e p="FilterType.cs" t="Include" />
+              <e p="Searching.cs" t="Include" />
+            </e>
             <e p="View.cs" t="Include" />
           </e>
         </e>
       </e>
-      <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="PortfolioDashboard.sln" t="IncludeFlat" />
       <e p="Sirenix.OdinInspector.CompatibilityLayer.csproj" t="IncludeRecursive" />
       <e p="Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" t="IncludeRecursive" />
-      <e p="Temp" t="ExcludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-      </e>
+      <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
   </component>
 </project>

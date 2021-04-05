@@ -24,6 +24,7 @@ namespace Menu
             _selectedBtn = null;
             _buttons = null;
         }
+        
 
         public void AddEntry<T, TD>(string inFileName, string inLabel) where T : RootModel where TD : Model
         {

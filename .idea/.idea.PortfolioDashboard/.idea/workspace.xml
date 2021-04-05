@@ -1,273 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7acde9bb-749e-4692-8d30-0209b4fc325d" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="7acde9bb-749e-4692-8d30-0209b4fc325d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PortfolioDashboard/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PortfolioDashboard/.idea/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PortfolioDashboard/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PortfolioDashboard/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PortfolioDashboard/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PortfolioDashboard/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PortfolioDashboard/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PortfolioDashboard/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PortfolioDashboard/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PortfolioDashboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PortfolioDashboard/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Addons/UltimateJson/ReadMe/Thumbs.db.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/AOT.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/AOT.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.XML.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.XML.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Standalone.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Standalone.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.XML.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.XML.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Windows.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Windows.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.XML.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.XML.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/link.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/link.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Custom Attribute Processors.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Custom Drawers.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Editor Windows.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Sample - RPG Editor.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/GeneralDrawerConfig.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/GeneralDrawerConfig.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/GeneralDrawerConfig.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/GeneralDrawerConfig.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/InspectorConfig.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/InspectorConfig.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/InspectorConfig.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/InspectorConfig.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Editor/AssemblyImportSettingsAutomation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Editor/AssemblyImportSettingsAutomation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Editor/Sirenix.OdinInspector.CompatibilityLayer.Editor.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Editor/Sirenix.OdinInspector.CompatibilityLayer.Editor.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Editor/Sirenix.OdinInspector.CompatibilityLayer.Editor.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Editor/Sirenix.OdinInspector.CompatibilityLayer.Editor.asmdef.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Sirenix.OdinInspector.CompatibilityLayer.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Sirenix.OdinInspector.CompatibilityLayer.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Sirenix.OdinInspector.CompatibilityLayer.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Sirenix.OdinInspector.CompatibilityLayer.asmdef.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Readme.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MenuBtn.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/MenuBtn.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Dashboard.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Dashboard.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Dashboard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Dashboard.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Items/Fields.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Menu/Menu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Menu/Menu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Menu/MenuButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Menu/MenuButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Models/Skill.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Models/Skill.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Theme/ThemeColor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Theme/ThemeColor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Theme/ThemeElement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Theme/ThemeElement.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Theme/ThemeElement.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-              <folding>
-                <marker date="1617578907150" expanded="false" signature="6:69" ph="..." />
-                <marker date="1617578907150" expanded="true" signature="86:2376" ph="{...}" />
-                <marker date="1617578907150" expanded="true" signature="116:156" ph="{...}" />
-                <marker date="1617578907150" expanded="true" signature="202:2374" ph="{...}" />
-                <marker date="1617578907150" expanded="true" signature="636:792" ph="{...}" />
-                <marker date="1617578907150" expanded="true" signature="662:782" ph="{...}" />
-                <marker date="1617578907150" expanded="true" signature="850:1007" ph="{...}" />
-                <marker date="1617578907150" expanded="true" signature="876:997" ph="{...}" />
-                <marker date="1617578907150" expanded="true" signature="1076:1234" ph="{...}" />
-                <marker date="1617578907150" expanded="true" signature="1102:1224" ph="{...}" />
-                <marker date="1617578907150" expanded="true" signature="1263:1338" ph="{...}" />
-                <marker date="1617578907150" expanded="true" signature="1371:1500" ph="{...}" />
-                <marker date="1617578907150" expanded="true" signature="1552:2367" ph="{...}" />
-                <marker date="1617578907150" expanded="true" signature="1590:2357" ph="{...}" />
-                <marker date="1617578907150" expanded="true" signature="1992:2315" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Menu.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-              <folding>
-                <marker date="1617578461120" expanded="false" signature="6:66" ph="..." />
-                <marker date="1617578461120" expanded="true" signature="82:1670" ph="{...}" />
-                <marker date="1617578461120" expanded="true" signature="156:209" ph="{...}" />
-                <marker date="1617578461120" expanded="true" signature="247:1668" ph="{...}" />
-                <marker date="1617578461120" expanded="true" signature="557:677" ph="{...}" />
-                <marker date="1617578461120" expanded="true" signature="786:1250" ph="{...}" />
-                <marker date="1617578461120" expanded="true" signature="868:984" ph="{...}" />
-                <marker date="1617578461120" expanded="true" signature="1294:1452" ph="{...}" />
-                <marker date="1617578461120" expanded="true" signature="1508:1662" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DashboardSettings.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              <folding>
-                <marker date="1617576441000" expanded="true" signature="120:153" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Theme/ThemeColor.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-              <folding>
-                <marker date="1617573280210" expanded="true" signature="30:343" ph="{...}" />
-                <marker date="1617573280210" expanded="true" signature="59:130" ph="{...}" />
-                <marker date="1617573280210" expanded="true" signature="185:341" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files/Unity/Hub/Editor/2020.1.11f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ColorBlock.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="27" column="47" selection-start-line="13" selection-start-column="8" selection-end-line="27" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IHaveColorField.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-              <folding>
-                <marker date="1617569879854" expanded="true" signature="40:129" ph="{...}" />
-                <marker date="1617569879854" expanded="true" signature="79:127" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dashboard.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2">
-              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-              <folding>
-                <marker date="1617577785305" expanded="false" signature="6:290" ph="..." />
-                <marker date="1617577785305" expanded="true" signature="367:3556" ph="{...}" />
-                <marker date="1617577785305" expanded="true" signature="957:1084" ph="{...}" />
-                <marker date="1617577785305" expanded="true" signature="975:1078" ph="{...}" />
-                <marker date="1617577785305" expanded="true" signature="1212:1342" ph="{...}" />
-                <marker date="1617577785305" expanded="true" signature="1418:1641" ph="{...}" />
-                <marker date="1617577785305" expanded="true" signature="1724:1820" ph="{...}" />
-                <marker date="1617577785305" expanded="true" signature="1891:2023" ph="{...}" />
-                <marker date="1617577785305" expanded="true" signature="2099:3032" ph="{...}" />
-                <marker date="1617577785305" expanded="true" signature="2168:2990" ph="{...}" />
-                <marker date="1617577785305" expanded="true" signature="2368:2903" ph="{...}" />
-                <marker date="1617577785305" expanded="true" signature="2749:2822" ph="{...}" />
-                <marker date="1617577785305" expanded="true" signature="3067:3404" ph="{...}" />
-                <marker date="1617577785305" expanded="true" signature="3102:3186" ph="{...}" />
-                <marker date="1617577785305" expanded="true" signature="3263:3373" ph="{...}" />
-                <marker date="1617577785305" expanded="true" signature="3439:3553" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/MenuButton.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-              <folding>
-                <marker date="1617578207488" expanded="true" signature="6:106" ph="..." />
-                <marker date="1617578207488" expanded="true" signature="122:1988" ph="{...}" />
-                <marker date="1617578207488" expanded="true" signature="207:1986" ph="{...}" />
-                <marker date="1617578207488" expanded="true" signature="388:546" ph="{...}" />
-                <marker date="1617578207488" expanded="true" signature="414:536" ph="{...}" />
-                <marker date="1617578207488" expanded="true" signature="717:877" ph="{...}" />
-                <marker date="1617578207488" expanded="true" signature="1015:1413" ph="{...}" />
-                <marker date="1617578207488" expanded="true" signature="1053:1180" ph="{...}" />
-                <marker date="1617578207488" expanded="true" signature="1481:1792" ph="{...}" />
-                <marker date="1617578207488" expanded="true" signature="1822:1885" ph="{...}" />
-                <marker date="1617578207488" expanded="true" signature="1917:1979" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/Skill.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-              <folding>
-                <marker date="1617571262099" expanded="true" signature="6:113" ph="..." />
-                <marker date="1617571262099" expanded="true" signature="131:1217" ph="{...}" />
-                <marker date="1617571262099" expanded="true" signature="259:992" ph="{...}" />
-                <marker date="1617571262099" expanded="true" signature="502:722" ph="{...}" />
-                <marker date="1617571262099" expanded="true" signature="765:833" ph="{...}" />
-                <marker date="1617571262099" expanded="true" signature="878:943" ph="{...}" />
-                <marker date="1617571262099" expanded="true" signature="1062:1215" ph="{...}" />
-                <marker date="1617571262099" expanded="true" signature="1151:1209" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/RootModel.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-              <folding>
-                <marker date="1617571204533" expanded="true" signature="51:167" ph="{...}" />
-                <marker date="1617571204533" expanded="true" signature="89:165" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/Reward.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/RootModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/ColorField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Theme/ColorInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Components/AppComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Theme/ThemeElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Components/ComponentType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Theme/ThemeColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Components/ComponentData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Components/TextComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IHaveColorField.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Dashboard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Theme/ThemeManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Theme/ThemeInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/View.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Block.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/NumericField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/SupportedFieldType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/BlockField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/ColorField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/ObjectField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/ToggleField.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/TextField.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/Skill.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Components/AppComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/MenuButton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/NumericField.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CustomSizeFitter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/ObjectField.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DashboardSettings.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IHaveEnabledField.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Theme/ThemeElement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Menu.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IHaveTextField.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Theme/ColorInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Program Files/Unity/Hub/Editor/2020.1.11f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ColorBlock.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Theme/ThemeColor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/97722D3A-BC9F-4CF6-9F9E-21E6770081B3/f8/6ce76faa/JsonConvert.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IHaveNumericField.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIPanel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/SupportedFieldType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsMaker/ItemsMaker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/ToggleField.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/DBColor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Theme/ThemeInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Components/ComponentType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/View.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Inspector/Inspector.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Components/ComponentData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Items/Item.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Theme/ThemeManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Block.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/BlockField.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/Model.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/DBColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/RootModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CustomSizeFitter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2020.1.11f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ColorBlock.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/Reward.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Dashboard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/SearchDashboard/Searching.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IHaveEnabledField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IHaveColorField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IHaveNumericField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DashboardSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IHaveTextField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsMaker/ItemsMaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Items/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/MenuButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Inspector/Inspector.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Theme/ThemeInfo.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Views/View.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UIPanel.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Components/ComponentType.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Components/ComponentData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Inspector/Inspector.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Items/Fields/ItemField.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/SupportedFieldType.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Items/Fields/TextField.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Theme/ThemeManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CustomSizeFitter.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Models/Reward.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Models/IDBObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Models/DBColor.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/BlockField.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/NumericField.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/TextField.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/ToggleField.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ItemsMaker/Items/Item.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Fields/ColorField.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/ISearchColor.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IhaveColorField.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IHaveColorField.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IHaveTextField.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IHaveNumericField.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IHaveEnabledField.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Models/Model.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Views/Blocks/Block.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Models/RootModel.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Models/Skill.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Theme/ThemeColor.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DashboardSettings.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Dashboard.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/MenuButton.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Menu.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Theme/ThemeElement.cs" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Views/Searching.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Views/FilterType.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Views/SearchDashboard/FilterType.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Menu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Dashboard.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Models/Skill.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Views/SearchDashboard/Searching.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Views/SearchDashboard/FilterItem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Theme/ThemeColor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IToggle.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Theme/ThemeElement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Menu/MenuButton.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -275,6 +137,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectId" id="1qkfqIRpg4szCOu0xMaWBSJiLl3" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -354,40 +217,42 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="RiderCSharpLiveTemplatesSettingsId" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -402,6 +267,8 @@
       <workItem from="1616795808187" duration="5132000" />
       <workItem from="1616863555816" duration="9681000" />
       <workItem from="1617560522152" duration="17154000" />
+      <workItem from="1617628699868" duration="2431000" />
+      <workItem from="1617638400119" duration="4470000" />
     </task>
     <servers />
   </component>
@@ -453,7 +320,22 @@
     </layout>
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
-  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>

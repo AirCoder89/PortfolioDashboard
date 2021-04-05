@@ -10,9 +10,7 @@ namespace Theme
     [Serializable]
     public struct ThemeButtonColor
     {
-        public ThemeColor normal;
-        public ThemeColor highlighted;
-        public ThemeColor pressed;
-        public ThemeColor disabled;
+        public ThemeColor selected;
+        public ThemeColor unselected;
     }
 }

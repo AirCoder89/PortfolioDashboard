@@ -1,4 +1,6 @@
-﻿using Models;
+﻿using System;
+using Interfaces;
+using Models;
 using Newtonsoft.Json;
 using Sirenix.OdinInspector;
 using UnityEngine;
@@ -7,8 +9,11 @@ using UnityEngine.UI;
 namespace Menu
 {
     [RequireComponent(typeof(Button))]
-    public class MenuButton : MonoBehaviour
+    public class MenuButton : MonoBehaviour, IToggle
     {
+        public event Action<bool> onValueChanged;
+        public bool IsSelected { get; private set; }
+        
         [SerializeField] [Required] private Text label;
         public RootModel rootModel { get; private set; }
 
@@ -29,6 +34,7 @@ namespace Menu
         {
             if(_isInitialized) return;
             _isInitialized = true;
+            IsSelected = false;
             _menu = inMenu;
             _dashboard = inDashboard;
         }
@@ -58,13 +64,22 @@ namespace Menu
 
         public void Select()
         {
-            _buttons.interactable = false;
+            Debug.Log($"Select");
+            IsSelected = true;
+            onValueChanged?.Invoke(IsSelected);
         }
 
         public void Unselect()
         {
-            _buttons.interactable = true;
+            Debug.Log($"UnSelect");
+            IsSelected = false;
+            onValueChanged?.Invoke(IsSelected);
         }
 
+       
+        public void SetColors(Color selectedColor, Color unselectedColor)
+        {
+            
+        }
     }
 }
